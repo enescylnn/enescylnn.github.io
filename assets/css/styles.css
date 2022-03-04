@@ -27,9 +27,9 @@
   }
 }
 
-.banner { width: 96%; padding-top: 10px; }
+.home__img { width: 96%; padding-top: 10px; }
 @media (max-width:800px) { 
-.banner {         
+.home__img {         
 display:none !important;     
 } }
 
