@@ -30,7 +30,7 @@
 .home__img{
     position: absoulte;
     left: 1200px;
-    top:0px;
+    top:100px;
     z-index: 1;
     max-height:600px;
     max-width:500px;
