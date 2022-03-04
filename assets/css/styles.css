@@ -28,9 +28,13 @@
 }
 
 .home__img{
-	max-height:600px;
-	max-width:500px;
-	}
+    position: absoulte;
+    left: 0px;
+    top:0px;
+    z-index: 1;
+    max-height:600px;
+    max-width:500px;
+}
 
 /*===== Margenes =====*/
 :root{
