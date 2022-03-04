@@ -27,6 +27,12 @@
   }
 }
 
+.banner { width: 96%; padding-top: 10px; }
+@media (max-width:800px) { 
+.banner {         
+display:none !important;     
+} }
+
 /*===== Margenes =====*/
 :root{
   --mb-1: 0.5rem;
